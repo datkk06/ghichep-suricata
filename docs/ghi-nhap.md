@@ -42,3 +42,9 @@
     ```sh
     suricata-update remove-source et/pro
     ```
+
+- Thông tin về các thông số cấu hình trên Suricata : 
+
+    ```sh
+    suricata --build-info
+    ```
